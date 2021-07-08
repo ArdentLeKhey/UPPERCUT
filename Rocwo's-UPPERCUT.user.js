@@ -5,8 +5,8 @@
 // @description  Up le topax de manière automatisée
 // @author       ArdentLeKhey
 // @grant        none
-// @include      *www.jeuxvideo.com/forums/42-51-67019734-9-0-1-0-risistar-la-v9-arrive-enfin.htm*
-// @include      *www.jeuxvideo.com/forums/42-51-67089647-1-0-1-0-risistar-les-kheys-retournent-dans-l-espace-samedi.htm*
+// @include      *www.jeuxvideo.com/forums/*-risistar-la-v9-arrive-enfin.htm*
+// @include      *www.jeuxvideo.com/forums/*-risistar-les-kheys-retournent-dans-l-espace-samedi.htm*
 // @include      about:addons
 // @require      http://code.jquery.com/jquery-3.6.0.min.js
 // ==/UserScript==
