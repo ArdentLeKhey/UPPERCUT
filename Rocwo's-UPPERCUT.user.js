@@ -7,6 +7,7 @@
 // @grant        none
 // @include      *www.jeuxvideo.com/forums/*-risistar-la-v9-arrive-enfin.htm*
 // @include      *www.jeuxvideo.com/forums/*-risistar-les-kheys-retournent-dans-l-espace-samedi.htm*
+// @include      *www.jeuxvideo.com/forums/*-tu-viens-celestin-on-va-dans-l-espace-risistar.htm
 // @include      about:addons
 // @require      http://code.jquery.com/jquery-3.6.0.min.js
 // ==/UserScript==
